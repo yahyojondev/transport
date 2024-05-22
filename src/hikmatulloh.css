@@ -15,6 +15,13 @@
     width: 850px;
     height: 300px;
 }
+.map{
+    background-image: url("./assets/img//map.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
 .footer{
     background-image: url("./assets/img/footerImg.png"), url("./assets/img/footerImg.png");
     background-position: left, right;

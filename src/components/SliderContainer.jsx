@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import Slider from "react-slick";
 
-import fanlar_data from "../data/fanlar_data";
+import fanlar_data from "../data/slider_data";
 import RigthIcon from "../assets/icon/RigthIcon";
 import LeftIcon from "../assets/icon/LeftIcon";
 import RigthVectorIcon from "../assets/icon/RigthVectorIcon";

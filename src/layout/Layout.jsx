@@ -5,7 +5,7 @@ import Footer from './Footer';
 
 const Layout = () => {
     return (
-        <div className="flex flex-col justify-between max-h-screen h-full w-full">
+        <div className="flex flex-col justify-between h-screen max-h-full w-full">
             <div className="wrapper">
                 <Header />
                 <main>

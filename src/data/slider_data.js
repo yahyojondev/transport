@@ -3,7 +3,7 @@ import slider2 from "../assets/img/slider2.png"
 import slider3 from "../assets/img/slider3.png"
 
 
-const  fanlar_data = [
+const  slider_data = [
     {
         id: 1,
         img: slider1,
@@ -22,4 +22,4 @@ const  fanlar_data = [
     
 ]
 
-export default fanlar_data
+export default slider_data

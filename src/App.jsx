@@ -1,4 +1,4 @@
-import React from "react";
+
 
 import { Route, Routes } from "react-router-dom";
 import Home from "./pages/home/Home";
@@ -19,12 +19,13 @@ function App() {
     <Routes>
     <Route path="/" element={<Layout />}>
       <Route index element={<Home />} />
+     </Route>
+     
       <Route path="dars-jadvali" element={<LessonTable/>} />
       <Route path="fanlar" element={<SciencesList/>} />
       <Route path="vazifalar" element={<Tasks/>} />
       <Route path="account" element={<Account/>} />
       {/* <Route path="*" element={<NotFound/>}/> */}
-     </Route>
       {/* <Route path="login" element={<LoginMain/>}/>  */}
       <Route path="login-serfetikat" element={<DownloadLogin/>}/> 
       <Route path="serfetikat" element={<Serfetikat/>}/> 
