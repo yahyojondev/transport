@@ -1,0 +1,54 @@
+.intro{
+    background-image: url("./assets/img/aboutBg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    height: 100vh;
+}
+.info{
+    background-image: url("./assets/img/aboutImg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 850px;
+    height: 300px;
+}
+.footer{
+    background-image: url("./assets/img/footerImg.png"), url("./assets/img/footerImg.png");
+    background-position: left, right;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 350px, 350px;
+}
+.slick-arrow{
+    display: none !important
+}
+html{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+}
+ul,ol{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    object-fit: cover;
+}
