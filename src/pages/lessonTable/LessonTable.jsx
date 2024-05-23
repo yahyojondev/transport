@@ -1,5 +1,4 @@
 
-import React from "react";
 
 function LessonTable() {
     return (

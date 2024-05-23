@@ -1,6 +1,6 @@
-import React from 'react';
 
-function MenuIcon(props) {
+
+function MenuIcon() {
     return (
        <svg width={25.000000} height={21.000000} viewBox="0 0 25 21" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">
   <desc>

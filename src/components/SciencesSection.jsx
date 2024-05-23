@@ -1,5 +1,3 @@
-import React from "react";
-// import brend1 from "../assets/img/metroLogo.png"
 
 
 import { Link } from "react-router-dom";

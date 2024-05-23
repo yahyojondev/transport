@@ -28,7 +28,7 @@ function SciencesList() {
         <thead>
           <tr>
             <th className="px-[18px] py-[15px] font-normal text-[24px] border border-[#ADA8A8] text-[#8D8484] table900:text-[22px]">Fanlar</th>
-            <th className="px-[18px] py-[15px] font-normal text-[24px] border border-[#ADA8A8] text-[#8D8484] table900:text-[22px]">O'qituvchi</th>
+            <th className="px-[18px] py-[15px] font-normal text-[24px] border border-[#ADA8A8] text-[#8D8484] table900:text-[22px]">O`qituvchi</th>
           </tr>
         </thead>
         <tbody>
