@@ -14,7 +14,7 @@ function SciencesList() {
                 <Link className="px-[5px] text-[#8D8484] py-[7px] font-normal bg-white text-[24px] border border-[#ADA8A8] outline-blue-300 hover:bg-blue-300 hover:border-blue-400 hover:text-white active:border-blue-600 focus:border-blue-600  table900:text-[20px] " to="/">Bosh saxifaga qaytish</Link>
                 </div>
 
-                <select name="date" id="date" className="px-[5px] py-[7px] font-normal bg-white text-[24px] border cursor-pointer text-[#8D8484] border-[#ADA8A8] outline-blue-300 hover:border-blue-400  hover:text-white active:border-blue-600 focus:border-blue-600  table900:text-[20px]">
+                <select name="date" id="date" className="px-[5px] py-[7px] font-normal bg-white text-[24px] border cursor-pointer text-[#8D8484] border-[#ADA8A8] outline-blue-300 hover:border-blue-400   active:border-blue-600 focus:border-blue-600  table900:text-[20px]">
                     <option value="2023-2024 yil">2023-2024 yil</option>
                     <option value="2022-2023 yil">2022-2023 yil</option>
                     <option value="2021-2022 yil">2021-2022 yil</option>
